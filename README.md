@@ -55,7 +55,6 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [A 10 minute primer to the new Angular router (Jurgen Van de Moere)](http://jvandemo.com/a-10-minute-primer-to-the-new-angular-router/)
 
 #### Testing
-* [Full-Spectrum Testing with AngularJS and Karma](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
 * [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 
 #### Under the hood
@@ -94,7 +93,6 @@ If you want to add a resource please open a new issue or comment on an existing 
 * [egghead.io - Video Tutorials](https://www.egghead.io/)
 
 #### Magazines/Blogs
-* [AngularJS Daily](http://www.angularjsdaily.com/)
 * [ng-newsletter](http://www.ng-newsletter.com/)
 * [Year of Moo](http://www.yearofmoo.com/)
 * [Ode to code](http://odetocode.com/)
